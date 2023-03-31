@@ -1,5 +1,5 @@
 {
-    "name": "aidynmakhataev/laravelsurveyjs",
+    "name": "osamaalmamri/laravelsurveyjs",
     "description": "Laravel wrapper for surveyjs library",
     "license": "MIT",
     "authors": [
@@ -9,7 +9,7 @@
             "homepage": "https://github.com/AidynMakhataev"
         }
     ],
-    "homepage": "https://github.com/aidynmakhataev/laravelsurveyjs",
+    "homepage": "https://github.com/osamaalmamri/laravelsurveyjs",
     "keywords": [
         "Laravel", "LaravelSurveyJs", "surveyjs", "survey manager", "laravel survey", "survey editor", "surveyjs builder", "aidynmakhataev"
     ],
